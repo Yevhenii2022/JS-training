@@ -13,4 +13,14 @@
 	border: 1px solid black;
 	width: 153px;
 	margin-top: 20px;
+	margin-left: 300px;
+}
+
+form {
+	margin-top: 40px;
+	margin-left: 300px;
+}
+
+p {
+	margin-left: 300px;
 }
